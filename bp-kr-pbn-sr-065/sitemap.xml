@@ -2,19 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://deungchon-song-room.pbn-builder.xyz/</loc>
-    <lastmod>2026-06-15</lastmod>
+    <lastmod>2026-06-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://deungchon-song-room.pbn-builder.xyz/posts/field_note-001-20d2u9.html</loc>
     <lastmod>2026-06-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://deungchon-song-room.pbn-builder.xyz/posts/field_note-002-48g2y6.html</loc>
-    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -33,12 +27,6 @@
   <url>
     <loc>https://deungchon-song-room.pbn-builder.xyz/posts/qa-002-1c4ound.html</loc>
     <lastmod>2026-06-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://deungchon-song-room.pbn-builder.xyz/posts/review-001-48g2y6.html</loc>
-    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
